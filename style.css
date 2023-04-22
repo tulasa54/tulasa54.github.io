@@ -3,3 +3,9 @@
     font-size: 40px;
     background: mediumseagreen;
 }
+
+nav {
+    width: 40%;
+    height: 100vh;
+    float: left;
+}
