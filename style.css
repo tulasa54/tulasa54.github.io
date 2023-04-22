@@ -1,11 +1,39 @@
 * {
     font-family: 'Labrada', serif;
-    font-size: 40px;
-    background: mediumseagreen;
 }
 
+body {
+    background: #000111
+}
 nav {
-    width: 40%;
-    height: 100vh;
-    float: left;
+    width: 30%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #000120;
+}
+
+main {
+    margin-left: 30%;
+    font-size: 40px;
+    color: white;
+}
+
+.navBar {
+    list-style: none;
+    font-size: 24px;
+}
+
+.navBar a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
 }
