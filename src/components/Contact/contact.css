@@ -1,4 +1,60 @@
 h1 {
-    color: red;
-    font-size: 40px;
+    color: #ABC8C7;
+    font-size: 36px;
 }
+
+.row {
+    background-color: #0a1631aa;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: 5.5px;
+}
+
+.col {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.head {
+    padding: 30px;
+}
+
+.form-group {
+    margin: 1rem;
+}
+
+.form-control {
+    width: 80%;
+    height: calc(1.5em + 0.5rem + 2px);
+    padding: 0.1rem 0.5rem;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.5;
+    color: #00062f;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: 0.15rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+textarea.form-control {
+    height: auto;
+}
+
+.btn {
+    /* display: inline-block; */
+    padding: .55rem 1.85rem; 
+    margin-bottom: 1rem;
+    background-color: #ABC8C7;
+    font-size: 20px;
+    font-weight: 600;
+    color: #00062f;
+    border-radius: 8px;
+    border: 1px solid #8EB9FF;
+    transition-duration: 0.4s;
+}
+
+.btn:hover {
+    background-color: #8EB9FF;
+}
+

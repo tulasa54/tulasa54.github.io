@@ -4,11 +4,11 @@ foot {
     left: 0;
     width: 100%;
     text-align: center;
-    background-color: #172D77;
+    background-color: #070f2900;
     font-size: 24px;
 }
 
 foot a {
-    color: #8EB9FF;
+    color: #7AA095;
     letter-spacing: 8px;
 }

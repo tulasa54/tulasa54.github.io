@@ -1,6 +1,6 @@
 nav {
-  background-color: #19345F;
-  width: 27%;
+  background-color: #0a1631;
+  width: 23%;
   height: 100vh;
   list-style: none;
   text-align: center;
@@ -9,13 +9,13 @@ nav {
 
 .menu {
   text-decoration: none;
-  color: #8EB9FF;
-  font-size: 36px;
+  color: #ABC8C7;
+  font-size: 30px;
 }
 
 .mainpage {
-  color: #4FA8DE;
-  font-size: 64px;
+  color: #ABC8C7;
+  font-size: 60px;
   text-decoration: none;
   line-height: 60px;
 }
@@ -23,7 +23,6 @@ nav {
 nav p {
   margin-top: 80px;
   margin-bottom: 85px;
-  border-top: #4FA8DE dotted 4px;
   padding-top: 18px;
 }
 
