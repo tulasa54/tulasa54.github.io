@@ -1,0 +1,14 @@
+foot {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #172D77;
+    font-size: 24px;
+}
+
+foot a {
+    color: #8EB9FF;
+    letter-spacing: 8px;
+}

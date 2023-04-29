@@ -1,0 +1,35 @@
+nav {
+  background-color: #19345F;
+  width: 27%;
+  height: 100vh;
+  list-style: none;
+  text-align: center;
+  position: fixed;
+}
+
+.menu {
+  text-decoration: none;
+  color: #8EB9FF;
+  font-size: 36px;
+}
+
+.mainpage {
+  color: #4FA8DE;
+  font-size: 64px;
+  text-decoration: none;
+  line-height: 60px;
+}
+
+nav p {
+  margin-top: 80px;
+  margin-bottom: 85px;
+  border-top: #4FA8DE dotted 4px;
+  padding-top: 18px;
+}
+
+nav a:hover {
+  text-shadow: 1px 1px 1px rgb(206, 137, 137);
+}
+
+/* nav a:visited {
+} */
