@@ -1,5 +1,8 @@
 main {
     background-color: #00062f;
+    /* background: #00062f url("./../../pictures/pngwing.com.png") no-repeat; */
+    /* background-blend-mode: lighten; */
+    /* opacity: 30%; */
     margin-left: 23%;
     min-height: 100vh;
 }
