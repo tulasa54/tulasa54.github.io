@@ -5,6 +5,7 @@ import photo from './../../pictures/linkedIn.jpeg'
 function Home() {
   return (
     <main>
+      <div className='head'></div>
       <image>
         <img src={photo} className='pic'></img>
       </image>

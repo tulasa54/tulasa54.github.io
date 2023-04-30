@@ -56,5 +56,6 @@ textarea.form-control {
 
 .btn:hover {
     background-color: #8EB9FF;
+    box-shadow: 2px 2px black;
 }
 
