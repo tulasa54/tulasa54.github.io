@@ -1,20 +1,24 @@
-import React from 'react'
-import "./home.css"
-import photo from './../../pictures/linkedIn.jpeg'
+import React from "react";
+import "./home.css";
+import photo from "./../../pictures/linkedIn.jpeg";
 
 function Home() {
   return (
     <main>
-      <div className='head'></div>
+      <div className="home-head" />
+
       <image>
-        <img src={photo} className='pic'></img>
+        <img src={photo} className="pic"></img>
       </image>
       <div>
         <p>Hello World!</p>
-        <p>Thank you for visiting my website. Due to some backend issues, we will be back by May 5th, 2023.</p>
+        <p>
+          Welcome to my website. Feel free to contact me, if you have any
+          question.
+        </p>
       </div>
-   </main>
-  )
+    </main>
+  );
 }
 
-export default Home
+export default Home;
