@@ -7,32 +7,39 @@ main {
   min-height: 100vh;
 }
 
-.home-head {
+.home.head {
   padding: 50px;
 }
 
-/* .row {
-  background-color: black;
+.home.row {
   margin: 20px;
-} */
+}
 
-/* .col {
+.home.col {
   margin: 30px;
-} */
+}
+
+.home.col.left {
+  /* background-color: black; */
+  text-align: center;
+  float: left;
+  color: #abc8c7;
+  font-size: 35px;
+  width: 50%;
+}
+
+.home.col.right {
+  /* background-color: pink; */
+  float: right;
+}
 
 .pic {
   height: 250px;
-  float: right;
+  /* float: right; */
   padding: 30px;
-  margin-top: 110px;
-  margin-right: 20px;
+  /* margin-top: 110px; */
+  /* margin-right: 20px; */
   border-style: outset;
   background-color: #0a193c;
   border-color: #8eb9ff;
-}
-
-div {
-  text-align: center;
-  color: #abc8c7;
-  font-size: 28px;
 }

@@ -3,24 +3,27 @@ h1 {
   font-size: 36px;
 }
 
-.row {
+.contact.row {
   background-color: #0a1631aa;
   margin-right: 50px;
   margin-left: 50px;
   padding: 5.5px;
 }
 
-.col {
+.contact.col {
   margin-right: 15px;
   margin-left: 15px;
+  text-align: center;
 }
 
-.head {
+.contact.head {
   padding: 30px;
 }
 
 .form-group {
   margin: 1rem;
+  color: #abc8c7;
+  font-size: 28px;
 }
 
 .form-control {
@@ -59,6 +62,7 @@ textarea.form-control {
   box-shadow: 2px 2px black;
 }
 
-.foot {
-  font-size: 24px;
+.contact.col.foot {
+  color: #abc8c7;
+  font-size: 28px;
 }

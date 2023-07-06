@@ -4,18 +4,18 @@ import "./contact.css";
 function Contact() {
   return (
     <main>
-      <div className="head"></div>
+      <div className="contact head"></div>
 
-      <div className="row">
-        <div className="col">
-          <div className="row">
-            <div className="col">
+      <div className="contact row">
+        <div className="contact col">
+          <div className="contact row">
+            <div className="contact col">
               <h1>Contact Me</h1>
               <hr />
             </div>
           </div>
-          <div className="row">
-            <div className="col">
+          <div className="contact row">
+            <div className="contact col">
               <form>
                 <div className="form-group">
                   <label for="name">Name</label>
@@ -42,8 +42,8 @@ function Contact() {
               </form>
             </div>
           </div>
-          <div className="row">
-            <div className="col foot">
+          <div className="contact row">
+            <div className="contact col foot">
               (917) 741 - 3105 | tulasa.chitrakar@gmail.com
             </div>
           </div>
